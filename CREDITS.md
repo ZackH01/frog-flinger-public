@@ -18,7 +18,8 @@ License: [https://creativecommons.org/publicdomain/zero/1.0/](https://creativeco
 Source: [https://www.dafont.com/pixellari.font](https://www.dafont.com/pixellari.font)
 
 ## Music
-All music themes are original pieces composed by 3gotistical.
+All music themes are original pieces composed by 3gotistical.\
+Follow the composer: [https://on.soundcloud.com/pTL3EWGTcVzBL838A](https://on.soundcloud.com/pTL3EWGTcVzBL838A)
 
 ## Sound Effects
 "Balloon Pop 1" and "Block Break 2" by JDWasabi.\
