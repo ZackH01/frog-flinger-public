@@ -47,3 +47,7 @@ License: [https://creativecommons.org/licenses/by/3.0/](https://creativecommons.
 "Small applause" by Breviceps. This sound effect is licensed under CC0.\
 Source: [https://freesound.org/people/Breviceps/sounds/462362/](https://freesound.org/people/Breviceps/sounds/462362/)\
 License: [https://creativecommons.org/publicdomain/zero/1.0/](https://creativecommons.org/publicdomain/zero/1.0/)
+
+"Pickup_005" by FALLENBLOOD. This sound is licensed under CC0.\
+Source: [https://fallenblood.itch.io/50-sfx](https://fallenblood.itch.io/50-sfx)\
+License: [https://creativecommons.org/publicdomain/zero/1.0/](https://creativecommons.org/publicdomain/zero/1.0/)
